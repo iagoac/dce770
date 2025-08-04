@@ -6,8 +6,8 @@
 
 #### Horário
 
-  - Aula teórica: Terças-feiras, 10h às 12h (Sala a definir)
-  - Aula prática: Quartas-feiras, 10h às 12h (Sala UE-B-208)
+  - Aula teórica: Terças-feiras, 14h às 16h (Sala a definir)
+  - Aula prática: Quartas-feiras, 16h às 18h (Sala UE-B-208)
  
 #### Histórico e planejamento das aulas
 
@@ -15,36 +15,36 @@ As aulas serão todas ministradas, em sua grande maioria, presencialmente. Aulas
 
 Abaixo segue o planejamento das aulas teóricas. As atividades a serem desenvolvidas nas aulas práticas serão disponibilizadas no decorrer do semestre.
 
-  - **06/08** - Aula 01: Introdução a disciplina DCE770
-  - **12/08** - Aula 02: Notação assintótica de complexidade
-  - **13/08** - Aula 03: Classes de complexidade (P, NP, NP-Completo)
-  - **19/08** - Aula 04: Conceitos de grafos e introdução a otimização
-  - **20/08** - Aula 05: Heurísticas construtivas
-  - **26/08** - Aula 06: Prática de laboratório
-  - **27/08** - Aula 07: Tratamento de restrições em heurísticas e metaheurísticas
-  - **02/09** - Aula 08: Prática de laboratório
-  - **25/09** - Aula 09: Conceito de vizinhança e busca local
-  - **03/09** - Aula 10: Prática de laboratório
-  - **09/09** - Aula 11: Estratégias evolutivas
-  - **10/09** - Aula 12: Prática de laboratório
-  - **16/09** - Aula 13: VNS/VND, GRASP
-  - **17/09** - Aula 14: Prática de laboratório
-  - **23/09** - Aula 15: ILS, Tabu Search 
-  - **24/09** - Aula 16: Prática de laboratório
-  - **30/09** - Aula 17: Conceitos de heurísticas evolutivas e Algoritmo Genético
-  - **01/10** - Aula 18: Prática de laboratório
-  - **07/10** - Aula 19: Evolução diferencial e Algoritmos imuno-inspirados
-  - **08/10** - Aula 20: Prática de laboratório
-  - **14/10** - Aula 21: Colônia de formigas
-  - **21/10** - Aula 22: Prática de laboratório
-  - **22/10** - Aula 23: Otimização multi-objetivos e NSGA-II
-  - **29/10** - Aula 24: Prática de laboratório
-  - **04/11** - Aula 25: Métodos de análise e comparação de resultados
-  - **05/11** - Aula 26: Otimização de parâmetros de algoritmos
-  - **11/11** - Aula 27: Dúvidas para o trabalho final
-  - **12/11** - Aula 28: Apresentações do trabalho final
-  - **18/11** - Aula 29: Apresentações do trabalho final
-  - **19/11** - Aula 30: Avaliação especial
+  - **27/09** - Aula 01: Introdução a disciplina DCE770
+  - **28/09** - Aula 02: Notação assintótica de complexidade
+  - **04/10** - Aula 03: Classes de complexidade (P, NP, NP-Completo)
+  - **05/10** - Aula 04: Conceitos de grafos e introdução a otimização
+  - **11/10** - Aula 05: Heurísticas construtivas
+  - **12/10** - Aula 06: Prática de laboratório (Feriado, entrega de atividade)
+  - **18/10** - Aula 07: Tratamento de restrições em heurísticas e metaheurísticas
+  - **19/10** - Aula 08: Prática de laboratório
+  - **25/10** - Aula 09: Conceito de vizinhança e busca local
+  - **26/10** - Aula 10: Prática de laboratório
+  - **01/11** - Aula 11: Estratégias evolutivas
+  - **02/11** - Aula 12: Prática de laboratório (Feriado, entrega de atividade)
+  - **15/11** - Aula 13: VNS/VND, GRASP (Feriado, entrega de atividade)
+  - **16/11** - Aula 14: Prática de laboratório
+  - **22/11** - Aula 15: ILS, Tabu Search 
+  - **23/11** - Aula 16: Prática de laboratório
+  - **29/11** - Aula 17: Conceitos de heurísticas evolutivas e Algoritmo Genético
+  - **30/11** - Aula 18: Prática de laboratório
+  - **06/12** - Aula 19: Evolução diferencial e Algoritmos imuno-inspirados
+  - **07/12** - Aula 20: Prática de laboratório
+  - **13/12** - Aula 21: Colônia de formigas
+  - **14/12** - Aula 22: Prática de laboratório
+  - **20/12** - Aula 23: Problemas multi-objetivos e NSGA-II
+  - **21/12** - Aula 24: Prática de laboratório
+  - **17/01** - Aula 25: Métodos de análise e comparação de resultados
+  - **18/01** - Aula 26: Otimização de parâmetros de algoritmos
+  - **24/01** - Aula 27: Dúvidas para o trabalho final
+  - **25/01** - Aula 28: Apresentações do trabalho final
+  - **31/01** - Aula 29: Apresentações do trabalho final
+  - **01/02** - Aula 30: Avaliação especial
 
 As datas e conteúdos descritos acima estão sujeito a eventuais mudanças 
 
@@ -80,15 +80,15 @@ Este repositório no GitHub também servirá como fórum de dúvidas da discipli
 
 Se você utilizar o material desta disciplina de qualquer maneira, por favor, cite o material fonte:
 
-Iago A. Carvalho (2025), DCE770. Online: https://github.com/iagoac/dce770 Version 2.00; GNU General Public License v3.0.
+Iago A. Carvalho (2022), DCE770. Online: https://github.com/iagoac/dce770 Version 1.00; GNU General Public License v3.0.
 
 
 > @Misc{CarvalhoDCE770,  
 title={DCE770 - Heuristicas e metaheuristicas},  
 author={Iago A. Carvalho},   
 howPublished={\url{https&#58;//github\.com/iagoac/dce770}},  
-year={2025},  
-note={Version 2.00; GNU General Public License v3.0}  
+year={2022},  
+note={Version 1.00; GNU General Public License v3.0}  
 }
 
 

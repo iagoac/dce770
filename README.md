@@ -7,7 +7,7 @@
 #### Horário
 
   - Aula teórica: Terças-feiras, 10h às 12h (Sala a definir)
-  - Aula prática: Quartas-feiras, 10h às 12h (Sala UE-B-208)
+  - Aula prática: Quartas-feiras, 10h às 12h (Laboratório B-208)
  
 #### Histórico e planejamento das aulas
 
@@ -23,28 +23,28 @@ Abaixo segue o planejamento das aulas teóricas. As atividades a serem desenvolv
   - **26/08** - Aula 06: Prática de laboratório
   - **27/08** - Aula 07: Tratamento de restrições em heurísticas e metaheurísticas
   - **02/09** - Aula 08: Prática de laboratório
-  - **25/09** - Aula 09: Conceito de vizinhança e busca local
-  - **03/09** - Aula 10: Prática de laboratório
-  - **09/09** - Aula 11: Estratégias evolutivas
-  - **10/09** - Aula 12: Prática de laboratório
-  - **16/09** - Aula 13: VNS/VND, GRASP
-  - **17/09** - Aula 14: Prática de laboratório
-  - **23/09** - Aula 15: ILS, Tabu Search 
-  - **24/09** - Aula 16: Prática de laboratório
-  - **30/09** - Aula 17: Conceitos de heurísticas evolutivas e Algoritmo Genético
-  - **01/10** - Aula 18: Prática de laboratório
-  - **07/10** - Aula 19: Evolução diferencial e Algoritmos imuno-inspirados
-  - **08/10** - Aula 20: Prática de laboratório
-  - **14/10** - Aula 21: Colônia de formigas
-  - **21/10** - Aula 22: Prática de laboratório
-  - **22/10** - Aula 23: Otimização multi-objetivos e NSGA-II
-  - **29/10** - Aula 24: Prática de laboratório
-  - **04/11** - Aula 25: Métodos de análise e comparação de resultados
-  - **05/11** - Aula 26: Otimização de parâmetros de algoritmos
-  - **11/11** - Aula 27: Dúvidas para o trabalho final
-  - **12/11** - Aula 28: Apresentações do trabalho final
-  - **18/11** - Aula 29: Apresentações do trabalho final
-  - **19/11** - Aula 30: Avaliação especial
+  - **03/09** - Aula 09: Conceito de vizinhança e busca local
+  - **09/09** - Aula 10: Prática de laboratório
+  - **10/09** - Aula 11: Estratégias evolutivas
+  - **16/09** - Aula 12: Prática de laboratório
+  - **17/09** - Aula 13: VNS/VND, GRASP
+  - **23/09** - Aula 14: Prática de laboratório
+  - **24/09** - Aula 15: ILS, Tabu Search 
+  - **30/09** - Aula 16: Prática de laboratório
+  - **01/10** - Aula 17: Conceitos de heurísticas evolutivas e Algoritmo Genético
+  - **07/10** - Aula 18: Prática de laboratório
+  - **08/10** - Aula 19: Evolução diferencial e Algoritmos imuno-inspirados
+  - **14/10** - Aula 20: Prática de laboratório
+  - **21/10** - Aula 21: Colônia de formigas
+  - **22/10** - Aula 22: Prática de laboratório
+  - **29/10** - Aula 23: Otimização multi-objetivos e NSGA-II
+  - **04/11** - Aula 24: Prática de laboratório
+  - **05/11** - Aula 25: Métodos de análise e comparação de resultados
+  - **11/11** - Aula 26: Otimização de parâmetros de algoritmos
+  - **12/11** - Aula 27: Dúvidas para o trabalho final
+  - **18/11** - Aula 28: Apresentações do trabalho final
+  - **19/11** - Aula 29: Apresentações do trabalho final
+  - **25/11** - Aula 30: Avaliação especial
 
 As datas e conteúdos descritos acima estão sujeito a eventuais mudanças 
 

@@ -6,8 +6,8 @@
 
 #### Horário
 
-  - Aula teórica: Terças-feiras, 10h às 12h (Sala a definir)
-  - Aula prática: Quartas-feiras, 10h às 12h (Laboratório B-208)
+  - Aula teórica: Terças-feiras, 08h às 10h (Sala a definir)
+  - Aula prática: Quartas-feiras, 08h às 10h (Laboratório B-208)
  
 #### Histórico e planejamento das aulas
 
@@ -15,7 +15,7 @@ As aulas serão todas ministradas, em sua grande maioria, presencialmente. Aulas
 
 Abaixo segue o planejamento das aulas teóricas. As atividades a serem desenvolvidas nas aulas práticas serão disponibilizadas no decorrer do semestre.
 
-  - **06/08** - Aula 01: Introdução a disciplina DCE770
+  - **06/08** - Aula 01: [Introdução a disciplina DCE770](aulas/aula_1.pdf)
   - **12/08** - Aula 02: Notação assintótica de complexidade
   - **13/08** - Aula 03: Classes de complexidade (P, NP, NP-Completo)
   - **19/08** - Aula 04: Conceitos de grafos e introdução a otimização

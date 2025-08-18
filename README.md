@@ -18,7 +18,7 @@ Abaixo segue o planejamento das aulas teóricas. As atividades a serem desenvolv
   - **06/08** - Aula 01: [Introdução a disciplina DCE770](aulas/aula_01.pdf)
   - **12/08** - Aula 02: [Notação assintótica de complexidade](aulas/aula_02.pdf)
   - **13/08** - Aula 03: [Classes de complexidade (P, NP, NP-Completo)](aulas/aula_03.pdf)
-  - **19/08** - Aula 04: Conceitos de grafos e introdução a otimização
+  - **19/08** - Aula 04: [Conceitos de grafos e introdução a otimização](aulas/aula_04.pdf)
   - **20/08** - Aula 05: Heurísticas construtivas
   - **26/08** - Aula 06: Prática de laboratório
   - **27/08** - Aula 07: Tratamento de restrições em heurísticas e metaheurísticas

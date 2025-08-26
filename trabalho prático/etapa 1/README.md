@@ -17,6 +17,7 @@ Exemplos de problemas interessantes:
 - [Problema do Carteiro Chinês em redes mistas](https://www.sciencedirect.com/science/article/pii/S037722170100296X?casa_token=zybZPadOnpwAAAAA:NyBcfTCY7fSeJJRdGGw3ZlymJ4mqpbnaizNNpLGV5SD2tWnJusrNLciB1YCa8CzxMdzR8-MTzpM)
 - [Problema dos K-Caminhos Mais Curtos Dijuntos](https://www.rairo-ro.org/articles/ro/pdf/2023/01/ro220400.pdf)
 - [Problema da Coloração de Grafos Robustos](https://www.researchgate.net/profile/Victor-Miranda-Rangel-Silva/publication/288986291_An_ILS_algorithm_for_the_Robust_Coloring_Problem/links/5687df4708ae051f9af59311/An-ILS-algorithm-for-the-Robust-Coloring-Problem.pdf)
+- [Board Packing Problem](https://link.springer.com/article/10.1007/s10479-025-06787-2)
 
 ---
 

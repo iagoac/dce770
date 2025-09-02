@@ -22,7 +22,7 @@ Abaixo segue o planejamento das aulas teóricas. As atividades a serem desenvolv
 - **20/08** - Aula 05: Sem aula
 - **26/08** - Aula 06: [Heurísticas construtivas](aulas/aula_06.pdf)
 - **27/08** - Aula 07: Apresentação dos trabalhos práticos da disciplina
-- **02/09** - Aula 08: Tratamento de restrições em heurísticas e metaheurísticas
+- **02/09** - Aula 08: [Tratamento de restrições em heurísticas e metaheurísticas](aulas/aula_08.pdf)
 - **03/09** - Aula 09: Conceito de vizinhança e busca local
 - **09/09** - Aula 10: Prática de laboratório
 - **10/09** - Aula 11: Estratégias evolutivas

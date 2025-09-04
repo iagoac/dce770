@@ -25,11 +25,11 @@ Abaixo segue o planejamento das aulas teóricas. As atividades a serem desenvolv
 - **02/09** - Aula 08: [Tratamento de restrições em heurísticas e metaheurísticas](aulas/aula_08.pdf)
 - **03/09** - Aula 09: Conceito de vizinhança e busca local
 - **09/09** - Aula 10: Prática de laboratório
-- **10/09** - Aula 11: Estratégias evolutivas
+- **10/09** - Aula 11: VNS/VND, GRASP
 - **16/09** - Aula 12: Prática de laboratório
-- **17/09** - Aula 13: VNS/VND, GRASP
+- **17/09** - Aula 13: ILS, Tabu Search
 - **23/09** - Aula 14: Prática de laboratório
-- **24/09** - Aula 15: ILS, Tabu Search
+- **24/09** - Aula 15: Estratégias evolutivas
 - **30/09** - Aula 16: Prática de laboratório
 - **01/10** - Aula 17: Conceitos de heurísticas evolutivas e Algoritmo Genético
 - **07/10** - Aula 18: Prática de laboratório

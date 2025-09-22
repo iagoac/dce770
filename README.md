@@ -28,7 +28,7 @@ Abaixo segue o planejamento das aulas teóricas. As atividades a serem desenvolv
 - **10/09** - ~Aula 11: Prática de laboratório~
 - **16/09** - Aula 12: [VND, VNS e GRASP](aulas/aula_12.pdf)
 - **17/09** - ~Aula 13: Prática de laboratório~
-- **23/09** - Aula 14: ILS, Tabu Search
+- **23/09** - Aula 14: [ILS, Tabu Search](aulas/aula_14.pdf)
 - **24/09** - ~Aula 15: Prática de laboratório~
 - **30/09** - Aula 16: Estratégias evolutivas
 - **01/10** - Aula 17: Conceitos de heurísticas evolutivas e Algoritmo Genético

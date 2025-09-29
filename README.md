@@ -30,7 +30,7 @@ Abaixo segue o planejamento das aulas teóricas. As atividades a serem desenvolv
 - **17/09** - ~Aula 13: Prática de laboratório~
 - **23/09** - Aula 14: [ILS, Tabu Search](aulas/aula_14.pdf)
 - **24/09** - ~Aula 15: Prática de laboratório~
-- **30/09** - Aula 16: Conceitos de heurísticas evolutivas e algoritmo genético
+- **30/09** - [Aula 16: Conceitos de heurísticas evolutivas e algoritmo genético](aulas/aula_16.pdf)
 - **01/10** - ~Aula 17: Prática de laboratório~
 - **07/10** - ~Aula 18: Prática de laboratório~
 - **08/10** - Aula 19: Estratégias evolutivas e RKGA/BRKGA

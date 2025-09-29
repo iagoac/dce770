@@ -30,16 +30,17 @@ Abaixo segue o planejamento das aulas teóricas. As atividades a serem desenvolv
 - **17/09** - ~Aula 13: Prática de laboratório~
 - **23/09** - Aula 14: [ILS, Tabu Search](aulas/aula_14.pdf)
 - **24/09** - ~Aula 15: Prática de laboratório~
-- **30/09** - Aula 16: Estratégias evolutivas
-- **01/10** - Aula 17: Conceitos de heurísticas evolutivas e Algoritmo Genético
-- **07/10** - Aula 18: Prática de laboratório
-- **08/10** - Aula 19: Evolução diferencial e Algoritmos imuno-inspirados
-- **14/10** - Aula 20: Prática de laboratório
-- **21/10** - Aula 21: Colônia de formigas
-- **22/10** - Aula 22: Prática de laboratório
-- **29/10** - Aula 23: Otimização multi-objetivos e NSGA-II
-- **04/11** - Aula 24: Prática de laboratório
-- **05/11** - Aula 25: Métodos de análise e comparação de resultados
+- **30/09** - Aula 16: Conceitos de heurísticas evolutivas e algoritmo genético
+- **01/10** - ~Aula 17: Prática de laboratório~
+- **07/10** - ~Aula 18: Prática de laboratório~
+- **08/10** - Aula 19: Estratégias evolutivas e RKGA/BRKGA
+- **14/10** - Aula 20: Evolução diferencial e algoritmos imuno-inspirados
+- **21/10** - Aula 21: Colônia de formigas e enxame de partículas
+- **22/10** - ~Aula 22: Prática de laboratório~
+- **28/10** - Aula 23: Otimização multi-objetivos e NSGA-II
+- **29/10** - ~Aula 24: Prática de laboratório~
+- **04/11** - Aula 24: Métodos de análise e comparação de resultados
+- **05/11** - ~Aula 25: Prática de laboratório~
 - **11/11** - Aula 26: Otimização de parâmetros de algoritmos
 - **12/11** - Aula 27: Dúvidas para o trabalho final
 - **18/11** - Aula 28: Apresentações do trabalho final

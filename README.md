@@ -33,7 +33,7 @@ Abaixo segue o planejamento das aulas teóricas. As atividades a serem desenvolv
 - **30/09** - [Aula 16: Conceitos de heurísticas evolutivas e algoritmo genético](aulas/aula_16.pdf)
 - **01/10** - ~Aula 17: Prática de laboratório~
 - **07/10** - ~Aula 18: Prática de laboratório~
-- **08/10** - Aula 19: Estratégias evolutivas e RKGA/BRKGA
+- **08/10** - Aula 19: [Algoritmo genético de chaves aleatórias (BRKGA)](aulas/aula_19.pdf)
 - **14/10** - Aula 20: Evolução diferencial e algoritmos imuno-inspirados
 - **21/10** - Aula 21: Colônia de formigas e enxame de partículas
 - **22/10** - ~Aula 22: Prática de laboratório~

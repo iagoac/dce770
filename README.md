@@ -35,7 +35,7 @@ Abaixo segue o planejamento das aulas teóricas. As atividades a serem desenvolv
 - **07/10** - ~Aula 18: Prática de laboratório~
 - **08/10** - Aula 19: [Algoritmo genético de chaves aleatórias (BRKGA)](aulas/aula_19.pdf)
 - **14/10** - Aula 20: [Evolução diferencial](aulas/aula_20.pdf)
-- **21/10** - Aula 21: Colônia de formigas e enxame de partículas
+- **21/10** - Aula 21: [Enxame de partículas](aulas/aula_21.pdf)
 - **22/10** - ~Aula 22: Prática de laboratório~
 - **28/10** - Aula 23: Otimização multi-objetivos e NSGA-II
 - **29/10** - ~Aula 24: Prática de laboratório~

@@ -37,7 +37,7 @@ Abaixo segue o planejamento das aulas teóricas. As atividades a serem desenvolv
 - **14/10** - Aula 20: [Evolução diferencial](aulas/aula_20.pdf)
 - **21/10** - Aula 21: [Enxame de partículas](aulas/aula_21.pdf)
 - **22/10** - ~Aula 22: Prática de laboratório~
-- **28/10** - Aula 23: Otimização multi-objetivos e NSGA-II
+- **28/10** - Aula 23: [Otimização multi-objetivos e NSGA-II](aulas/aula_23.pdf)
 - **29/10** - ~Aula 24: Prática de laboratório~
 - **04/11** - Aula 24: Métodos de análise e comparação de resultados
 - **05/11** - ~Aula 25: Prática de laboratório~

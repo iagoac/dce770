@@ -39,9 +39,14 @@ Abaixo segue o planejamento das aulas teóricas. As atividades a serem desenvolv
 - **22/10** - ~Aula 22: Prática de laboratório~
 - **28/10** - Aula 23: [Otimização multi-objetivos e NSGA-II](aulas/aula_23.pdf)
 - **29/10** - ~Aula 24: Prática de laboratório~
-- **04/11** - Aula 24: Métodos de análise e comparação de resultados
+- **04/11** - Aula 24: [Experimentos com heurísticas](aulas/aula_24.pdf)
+  - [Palestra sobre análise experimental em R](https://youtu.be/CZ1KMSGdYU8?t=20653)
+  - [Artigo 1 aprofundando o tema](https://doi.org/10.1016/j.swevo.2011.02.002
+  )
+  - [Artigo 2 aprofundando o tema](https://arxiv.org/pdf/1902.00101)
 - **05/11** - ~Aula 25: Prática de laboratório~
 - **11/11** - Aula 26: Otimização de parâmetros de algoritmos
+  - [Artigo aprofundando o tema](https://doi.org/10.1016/j.swevo.2011.02.001)
 - **12/11** - Aula 27: Dúvidas para o trabalho final
 - **18/11** - Aula 28: Apresentações do trabalho final
 - **19/11** - Aula 29: Apresentações do trabalho final

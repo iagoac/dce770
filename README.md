@@ -47,10 +47,10 @@ Abaixo segue o planejamento das aulas teóricas. As atividades a serem desenvolv
 - **05/11** - ~Aula 25: Prática de laboratório~
 - **11/11** - ~Aula 26: Sem aula~
 - **12/11** - ~Aula 27: Sem aula~
-- **18/11** - Aula 28: Otimização de parâmetros de algoritmos
+- **18/11** - Aula 28: [Otimização de parâmetros de algoritmos](aulas/aula_28.pdf)
   - [Artigo aprofundando o tema](https://doi.org/10.1016/j.swevo.2011.02.001)
 - **09/12** - Aula 29: Apresentações do trabalho final
-- **25/11** - Aula 30: Avaliação especial
+- **16/12** - Aula 30: Avaliação especial
 
 As datas e conteúdos descritos acima estão sujeito a eventuais mudanças 
 

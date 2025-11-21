@@ -1,4 +1,4 @@
-# Segunda etapa do trabalho final
+# Terceira etapa do trabalho final
 
 Nesta terceira etapa cada aluno deverá trabalhar com base no problema e artigo escolhido
 

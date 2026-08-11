@@ -59,11 +59,10 @@ As avaliações somarão um total de 100 pontos. Um aluno é considerado **aprov
 **Instrumento de recuperação de aprendizagem**: O instrumento de recuperação de aprendizagem será realizado na forma de atividades práticas. O instrumento de recuperação de aprendizagem poderá ser utilizado unicamente como recuperação para o conjunto de atividades práticas, sendo vedada sua utilização para a recuperação da nota do trabalho final. A nota final das atividades será igual a média aritimética entre a nota original do estudante e a nota obtida no instrumento de recuperação de aprendizagem.
 
 ##### Pontuação máxima de cada atividade
-| Atividade                     | Pontuação máxima |
-| Trabalho final                | 60 |
-| Atividades de laboratório     | 20 |
-| Seminário                     | 20 |
-| Total                         | 100 |
+
+| Trabalho final | Atividades de laboratório | Seminário |
+| :------------: | :-----------------------: | :-------: |
+|   60 pontos    |         20 pontos         | 20 pontos |
 
 ---
 

@@ -20,7 +20,7 @@ Abaixo segue o planejamento das aulas teóricas. As atividades a serem desenvolv
 - **10/08** - Aula 03: [Classes de complexidade (P, NP, NP-Completo)](aulas/aula_03.pdf)
 - **12/08** - Aula 04: [Conceitos de grafos e introdução a otimização](aulas/aula_04.pdf)
 - **17/08** - Aula 05: [Heurísticas construtivas](aulas/aula_05.pdf)
-- **19/08** - Aula 06: Prática de laboratório: Heurísticas construtivas
+- **19/08** - Aula 06: [Prática de laboratório: Heurísticas construtivas](atividades/aula06.md)
 - **24/08** - Aula 07: Tratamento de restrições em heurísticas e metaheurísticas
 - **26/08** - Aula 08: Prática de laboratório: tratamento de restrições em heurísticas e metaheurísticas; Apresentação dos trabalhos práticos da disciplina 
 - **31/08** - Aula 09: Discussão do trabalho prático; Conceito de vizinhança e busca local

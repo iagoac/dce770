@@ -21,11 +21,11 @@ Abaixo segue o planejamento das aulas teóricas. As atividades a serem desenvolv
 - **12/08** - Aula 04: [Conceitos de grafos e introdução a otimização](aulas/aula_04.pdf)
 - **17/08** - Aula 05: [Heurísticas construtivas](aulas/aula_05.pdf)
 - **19/08** - Aula 06: Prática de laboratório: Heurísticas construtivas
-- **24/08** - Aula 07: Apresentação dos trabalhos práticos da disciplina
-- **26/08** - Aula 08: Tratamento de restrições em heurísticas e metaheurísticas
-- **31/08** - Aula 09: Prática de laboratório: tratamento de restrições em heurísticas e metaheurísticas
-- **02/09** - Aula 10: Conceito de vizinhança e busca local
-- **09/09** - Aula 11: Prática de laboratório: Busca local
+- **24/08** - Aula 07: Tratamento de restrições em heurísticas e metaheurísticas
+- **26/08** - Aula 08: Prática de laboratório: tratamento de restrições em heurísticas e metaheurísticas; Apresentação dos trabalhos práticos da disciplina 
+- **31/08** - Aula 09: Discussão do trabalho prático; Conceito de vizinhança e busca local
+- **02/09** - Aula 10: Prática de laboratório: Busca local
+- **09/09** - Aula 11: Sem aula
 - **14/09** - Aula 12: VND, VNS e GRASP
 - **16/09** - Aula 13: Prática de laboratório: VND, VNS e GRASP
 - **21/09** - Aula 14: ILS, Tabu Search

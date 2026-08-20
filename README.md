@@ -9,6 +9,8 @@
 - Aula teórica/prática: Segundas-feiras, 10h às 12h (Laboratório B-208)
 - Aula teórica/prática: Quartas-feiras, 10h às 12h (Laboratório B-208)
 
+**As aulas de prática de laboratório serão todas assíncronas, assim como combinado em sala de aula. A entrega das atividades será necessária para o cômputo de presença.**
+
 #### Histórico e planejamento das aulas
 
 As aulas serão todas ministradas, em sua grande maioria, presencialmente. Aulas teóricas expositivas serão realizadas em sala de aula, enquanto aulas práticas serão realizadas nos laboratórios da universidade, podendo serem síncronas ou assíncronas. Todos os slides e vídeos utilizados serão disponibilizados assim que estiverem prontos.

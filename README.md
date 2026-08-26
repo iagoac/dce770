@@ -32,19 +32,19 @@ Abaixo segue o planejamento das aulas teóricas. As atividades a serem desenvolv
 - **16/09** - Aula 13: Prática de laboratório: VND, VNS e GRASP
 - **21/09** - Aula 14: ILS, Tabu Search
 - **23/09** - Aula 15: Prática de laboratório: ILS, Tabu Search
-- **05/10** - Aula 16: Conceitos de heurísticas evolutivas e algoritmo genético
-- **19/10** - Aula 17: Prática de laboratório: Algoritmo genético
-- **21/10** - Aula 18: Algoritmo genético de chaves aleatórias (BRKGA)
-- **26/10** - Aula 19: Prática de laboratório: BRKGA
-- **04/11** - Aula 20: Evolução diferencial e Enxame de partículas
-- **09/11** - Aula 21: Prática de laboratório: Evolução diferencial e Enxame de partículas
-- **11/11** - Aula 22: Otimização multi-objetivo e NSGA-II
-- **16/11** - Aula 23: Prática de laboratório: NSGA-II
-- **18/11** - Aula 24: Experimentos com heurísticas
-- **23/11** - Aula 25: Prática de laboratório: Experimentos com heurísticas
-- **25/11** - Aula 26: Otimização de parâmetros de algoritmos
-- **30/11** - Aula 27: Prática de laboratório: Otimização de parâmetros de algoritmos
-- **02/12** - Aula 28: Apresentações de seminários temáticos
+- **05/10** - Aula 16: Conceitos de heurísticas evolutivas e algoritmo genético; Prática de laboratório: Algoritmo genético
+- **19/10** - Aula 17: Algoritmo genético de chaves aleatórias (BRKGA)
+- **21/10** - Aula 18: Prática de laboratório: BRKGA
+- **26/10** - Aula 19: Evolução diferencial e Enxame de partículas; Prática de laboratório: Evolução diferencial e Enxame de partículas
+- **04/11** - Aula 20: Sem aula
+- **09/11** - Aula 21: Otimização multi-objetivo e NSGA-II
+- **11/11** - Aula 22: Prática de laboratório: NSGA-II
+- **16/11** - Aula 23: Experimentos com heurísticas
+- **18/11** - Aula 24: Prática de laboratório: Experimentos com heurísticas
+- **23/11** - Aula 25: Otimização de parâmetros de algoritmos
+- **25/11** - Aula 26: Prática de laboratório: Otimização de parâmetros de algoritmos
+- **30/11** - Aula 27: Apresentações de seminários temáticos
+- **02/12** - Aula 28: Sem aula
 - **07/12** - Aula 29: Apresentações do trabalho final
 - **09/12** - Aula 30: Avaliação especial
 

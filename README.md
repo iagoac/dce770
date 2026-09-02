@@ -25,8 +25,8 @@ Abaixo segue o planejamento das aulas teóricas. As atividades a serem desenvolv
 - **19/08** - Aula 06: [Prática de laboratório: Heurísticas construtivas](atividades/aula06.md)
 - **24/08** - Aula 07: [Tratamento de restrições em heurísticas e metaheurísticas](aulas/aula_07.pdf)
 - **26/08** - Aula 08: [Prática de laboratório: tratamento de restrições em heurísticas e metaheurísticas](atividades/aula08.md)
-- **31/08** - Aula 09: [Vizinhança e busca local](aulas/aula_09.pdf); Discussão do trabalho prático; 
-- **02/09** - Aula 10: Prática de laboratório: Busca local
+- **31/08** - Aula 09: [Vizinhança e busca local](aulas/aula_09.pdf); [Primeira entrega do trabalho prático](trabalho_pratico/entrega01.md)
+- **02/09** - Aula 10: [Prática de laboratório: Busca local](atividades/aula10.md)
 - **09/09** - Aula 11: Sem aula
 - **14/09** - Aula 12: VND, VNS e GRASP
 - **16/09** - Aula 13: Prática de laboratório: VND, VNS e GRASP

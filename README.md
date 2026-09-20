@@ -30,7 +30,7 @@ Abaixo segue o planejamento das aulas teóricas. As atividades a serem desenvolv
 - **09/09** - Aula 11: Sem aula
 - **14/09** - Aula 12: [VND, VNS e GRASP](aulas/aula_12.pdf)
 - **16/09** - Aula 13: [Prática de laboratório: VND, VNS e GRASP](atividades/aula13_md)
-- **21/09** - Aula 14: ILS, Tabu Search
+- **21/09** - Aula 14: [ILS, Tabu Search](aulas/aula_14.pdf)
 - **23/09** - Aula 15: Prática de laboratório: ILS, Tabu Search
 - **05/10** - Aula 16: Conceitos de heurísticas evolutivas e algoritmo genético; Prática de laboratório: Algoritmo genético
 - **19/10** - Aula 17: Algoritmo genético de chaves aleatórias (BRKGA)

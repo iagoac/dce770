@@ -31,18 +31,18 @@ Abaixo segue o planejamento das aulas teóricas. As atividades a serem desenvolv
 - **14/09** - Aula 12: [VND, VNS e GRASP](aulas/aula_12.pdf)
 - **16/09** - Aula 13: [Prática de laboratório: VND, VNS e GRASP](atividades/aula13_md)
 - **21/09** - Aula 14: [ILS, Tabu Search](aulas/aula_14.pdf)
-- **23/09** - Aula 15: Prática de laboratório: ILS, Tabu Search
-- **05/10** - Aula 16: Conceitos de heurísticas evolutivas e algoritmo genético; Prática de laboratório: Algoritmo genético
-- **19/10** - Aula 17: Algoritmo genético de chaves aleatórias (BRKGA)
-- **21/10** - Aula 18: Prática de laboratório: BRKGA
-- **26/10** - Aula 19: Evolução diferencial e Enxame de partículas; Prática de laboratório: Evolução diferencial e Enxame de partículas
-- **04/11** - Aula 20: Sem aula
-- **09/11** - Aula 21: Otimização multi-objetivo e NSGA-II
-- **11/11** - Aula 22: Prática de laboratório: NSGA-II
-- **16/11** - Aula 23: Experimentos com heurísticas
-- **18/11** - Aula 24: Prática de laboratório: Experimentos com heurísticas
-- **23/11** - Aula 25: Otimização de parâmetros de algoritmos
-- **25/11** - Aula 26: Prática de laboratório: Otimização de parâmetros de algoritmos
+- **23/09** - Aula 15: Prática de laboratório: ILS, Tabu Search; Segunda entrega do trabalho prático
+- **28/09** - Aula 16: Conceitos de heurísticas evolutivas e algoritmo genético
+- **30/09** - Aula 17: Prática de laboratório: Algoritmo genético
+- **05/10** - Aula 18: Algoritmo genético de chaves aleatórias (BRKGA); Prática de laboratório: BRKGA
+- **19/10** - Aula 19: Evolução diferencial e Enxame de partículas
+- **21/10** - Aula 20: Prática de laboratório: Evolução diferencial e Enxame de partículas
+- **26/10** - Aula 21: Otimização multi-objetivo e NSGA-II; Prática de laboratório: NSGA-II
+- **04/11** - Aula 22: Sem aula
+- **09/11** - Aula 23: Experimentos com heurísticas
+- **11/11** - Aula 24: Prática de laboratório: Experimentos com heurísticas
+- **16/11** - Aula 25: Otimização de parâmetros de algoritmos
+- **18/11** - Aula 26: Prática de laboratório: Otimização de parâmetros de algoritmos
 - **30/11** - Aula 27: Apresentações de seminários temáticos
 - **02/12** - Aula 28: Sem aula
 - **07/12** - Aula 29: Apresentações do trabalho final

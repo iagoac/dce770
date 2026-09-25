@@ -34,7 +34,7 @@ Abaixo segue o planejamento das aulas teóricas. As atividades a serem desenvolv
 - **23/09** - Aula 15: [Prática de laboratório: ILS, Tabu Search]; Entrega da primeria etapa do trabalho final; [Disponibilização da segunda etapa do trabalho final](trabalho_final/etapa2.md)
 - **28/09** - Aula 16: Conceitos de heurísticas evolutivas e algoritmo genético
 - **30/09** - Aula 17: Prática de laboratório: Algoritmo genético
-- **05/10** - Aula 18: Algoritmo genético de chaves aleatórias (BRKGA); Prática de laboratório: BRKGA
+- **05/10** - Aula 18: [Algoritmo genético de chaves aleatórias (BRKGA)](aulas/aula_18.pdf); Prática de laboratório: BRKGA
 - **19/10** - Aula 19: Evolução diferencial e Enxame de partículas
 - **21/10** - Aula 20: Prática de laboratório: Evolução diferencial e Enxame de partículas
 - **26/10** - Aula 21: Otimização multi-objetivo e NSGA-II; Prática de laboratório: NSGA-II

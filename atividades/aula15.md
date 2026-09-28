@@ -9,7 +9,7 @@ O objetivo desta atividade prática é desenvolver
  
 A metaheurística desenvolvida deverá utilizar os esquemas de vizinhança e a heurística construtiva desenvolvidas nas aulas passadas. A metaheurística desenvolvida deverá ter, como critério de parada, um **tempo máximo de 30 segundos**. Além disso, caso necessário, o algoritmo de reparo desenvolvido na aula 08 pode ser utilizado para gerar soluções válidas a partir de soluções inválidas.
 
-O código desenvolvido deve ser entregue no Moodle da disciplina até o dia **28/09/2026** às **09h59**. A entrega é **individual** e valerá, além dos pontos destinados a esta atividade, presença na aula do dia 23/09/2026.
+O código desenvolvido deve ser entregue no Moodle da disciplina até o dia **05/10/2026** às **09h59**. A entrega é **individual** e valerá, além dos pontos destinados a esta atividade, presença na aula do dia 23/09/2026.
 
 ---
 

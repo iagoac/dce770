@@ -5,7 +5,7 @@ Seja o problema do caminho mais longo como definido no material anexo e disponí
 O objetivo desta atividade prática é desenvolver
  - Um algoritmo de evolução diferencial ou de enxame de partículas para o problema do caminho mais longo. 
 
-O código desenvolvido deve ser entregue no Moodle da disciplina até o dia **19/10/2026** às **09h59**. A entrega é **individual**.
+O código desenvolvido deve ser entregue no Moodle da disciplina até o dia **03/11/2026** às **23h59**. A entrega é **individual**.
 
 ---
 

@@ -36,9 +36,9 @@ Abaixo segue o planejamento das aulas teóricas. As atividades a serem desenvolv
 - **30/09** - Aula 17: [Prática de laboratório: Algoritmo genético](atividades/aula17.md)
 - **05/10** - Aula 18: [Algoritmo genético de chaves aleatórias (BRKGA)](aulas/aula_18.pdf); [Prática de laboratório: BRKGA](atividades/aula18.md)
 - **19/10** - Aula 19: [Evolução diferencial e Enxame de partículas](aulas/aula_19.pdf)
-- **21/10** - Aula 20: Prática de laboratório: Evolução diferencial e Enxame de partículas
-- **26/10** - Aula 21: Otimização multi-objetivo e NSGA-II; Prática de laboratório: NSGA-II
-- **04/11** - Aula 22: Entrega da segunda etapa do trabalho final; Disponibilização da terceira etapa do trabalho final
+- **21/10** - Aula 20: [Prática de laboratório: Evolução diferencial e Enxame de partículas](atividades/aula20.md)
+- **26/10** - Aula 21: Sem aula (decisão do CONSUNI)
+- **04/11** - Aula 22: Otimização multi-objetivo e NSGA-II; Prática de laboratório: NSGA-II; Entrega da segunda etapa do trabalho final; Disponibilização da terceira etapa do trabalho final
 - **09/11** - Aula 23: Experimentos com heurísticas
 - **11/11** - Aula 24: Prática de laboratório: Experimentos com heurísticas
 - **16/11** - Aula 25: Otimização de parâmetros de algoritmos

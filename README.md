@@ -39,7 +39,7 @@ Abaixo segue o planejamento das aulas teóricas. As atividades a serem desenvolv
 - **21/10** - Aula 20: [Prática de laboratório: Evolução diferencial e Enxame de partículas](atividades/aula20.md)
 - **26/10** - Aula 21: Sem aula (decisão do CONSUNI)
 - **04/11** - Aula 22: [Otimização multi-objetivo e NSGA-II](aulas/aula_22.pdf); [Prática de laboratório: NSGA-II](atividades/aula22.md); Entrega da segunda etapa do trabalho final; Disponibilização da terceira etapa do trabalho final
-- **09/11** - Aula 23: Experimentos com heurísticas
+- **09/11** - Aula 23: [Experimentos com heurísticas](aulas/aula_23.pdf)
 - **11/11** - Aula 24: Prática de laboratório: Experimentos com heurísticas
 - **16/11** - Aula 25: Otimização de parâmetros de algoritmos
 - **18/11** - Aula 26: Prática de laboratório: Otimização de parâmetros de algoritmos
